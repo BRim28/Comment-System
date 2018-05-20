@@ -9,6 +9,7 @@ This is an assignment project to develop a simple comment system.
 It includes following features:
     1. Post a comment, using a username.
     2. Give upvotes and downvotes to other's comments.
+    3. Easy to use User interface.
 
 About Project Implementation:
     1. Subfolder structure for easy development and testing.
