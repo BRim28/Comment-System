@@ -22,5 +22,5 @@ About Project Implementation:
     
     3. Can enhance the system by tracking ip address of users and restricting upto only one vote.(Else login mechanism can be used.)
     
-(NOTE:- MySQL database file uploaded in 'database folder'. Please export it to your databse.)
+(NOTE:- MySQL database file uploaded in 'database' folder. Please export it to your databse.)
  
