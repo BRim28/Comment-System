@@ -21,4 +21,6 @@ About Project Implementation:
     2. Very primitive features as per requirements in Assignment.
     
     3. Can enhance the system by tracking ip address of users and restricting upto only one vote.(Else login mechanism can be used.)
+    
+(NOTE:- MySQL database file uploaded in 'database folder'. Please export it to your databse.)
  
