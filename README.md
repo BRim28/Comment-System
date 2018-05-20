@@ -1,6 +1,7 @@
 /****************************************************************/
 # Comment-System
 Internship assignment. Simple comment system with voting.
+
 *****************************************************************/
 
 This is an assignment project to develop a simple comment system.
